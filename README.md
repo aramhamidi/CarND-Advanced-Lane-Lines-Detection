@@ -1,14 +1,3 @@
-
-
-```python
-%%HTML
-<style> code {background-color : pink !important;} </style>
-```
-
-
-<style> code {background-color : pink !important;} </style>
-
-
 # Advanced Lane Finding Project
 
 ## Camera Calibration with OpenCV
